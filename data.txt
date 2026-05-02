@@ -2,4 +2,4 @@ Name: Ironhacker
 Age: 25
 Favorite Color: Yellow
 Campus : Remote
-Change on main that conflict withe the feature/search branche.
+Change on main that conflict with the feature/search branche.
